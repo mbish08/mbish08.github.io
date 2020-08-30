@@ -1,11 +1,11 @@
 # Site settings
 author: Mikel Bishop
-title: 
+title: My Software Engineering Journey
 header-img: img/home-bg.png
 email: mdrew8@gmail.com
 copyright_name: Mikel Bishop
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The road to learning that never ends
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: MikelBishop8
 github_username:  mbish08
