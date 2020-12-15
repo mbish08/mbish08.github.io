@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Goodbye to Module 2!  Nearly halfway there!"
-date:       2020-12-15 01:47:24 +0000
+date:       2020-12-14 20:47:25 -0500
 permalink:  goodbye_to_module_2_nearly_halfway_there
 ---
 
